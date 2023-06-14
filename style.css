@@ -33,3 +33,12 @@ p {
 .languages div:nth-child(2) ul li {
   width: 122px;
 } 
+
+.contact-me {
+  height: 900px;
+  background-image: url("./assets/images/contact-form-background-shapes.png");
+  background-color: blue;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
