@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif !important; 
+}
+
+h1 {
+  font-size: 48px !important;
+}
+
+p {
+  font-size: 20px !important;
+}
+
+.header {
+  background-image: url("./assets/images/Header-shapes-desktop.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-bottom-left-radius: 150px;
+}
+
+.headline {
+  height: 846px;
+}
+
+.project {
+  margin: 148px 0;
+}
+
+.about-me {
+  height: 722px;
+}
+
+.languages div:nth-child(2) ul li {
+  width: 122px;
+} 
